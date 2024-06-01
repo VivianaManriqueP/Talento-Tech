@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <script src="Script.JS"></script>
+    <title>Piedra, papel o tijera</title>
+</head>
+<body>
+    <h1>Piedra, papel o tijera</h1>
+    <p>Juguemos piedra papel o tijera. Selecciona una opción para jugar:</p>
+    <div class = "Container">
+        <button>
+        <img src="Piedra.png" height="200px" id="piedra" onclick="jugar('piedra')">
+        </button>
+        <button>
+        <img src="Papel.png" height="200px" id="papel" onclick="jugar('papel')">
+        </button>    
+        <button>
+        <img src="Tijera.png" height="200px" id="Tijera" onclick="jugar('tijera')">
+        </button>     
+    </div>
+    <div id="TuEleccion" class="TuEleccion"></div>
+    <br>
+    <div id="EleccionPC" class="EleccionPC"></div>
+    <br>
+    <div id="Resultado" class="Resultado"></div>
+    <br>
+</body>
+</html>

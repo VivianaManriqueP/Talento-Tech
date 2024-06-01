@@ -1,0 +1,22 @@
+[
+    { "título": "Cien años de soledad", "autor": "Gabriel García Márquez", "año": 1967 },
+    { "título": "El amor en los tiempos del cólera", "autor": "Gabriel García Márquez", "año": 1985 },
+    { "título": "La hojarasca", "autor": "Gabriel García Márquez", "año": 1955 },
+    { "título": "La mala hora", "autor": "Gabriel García Márquez", "año": 1962 },
+    { "título": "Delirio", "autor": "Laura Restrepo", "año": 2004 },
+    { "título": "La Virgen de los Sicarios", "autor": "Fernando Vallejo", "año": 1994 },
+    { "título": "El olvido que seremos", "autor": "Héctor Abad Faciolince", "año": 2006 },
+    { "título": "La tejedora de coronas", "autor": "Germán Espinosa", "año": 1982 },
+    { "título": "La casa grande", "autor": "Álvaro Cepeda Samudio", "año": 1962 },
+    { "título": "La marquesa de Yolombó", "autor": "Tomás Carrasquilla", "año": 1926 },
+    { "título": "Cóndores no entierran todos los días", "autor": "Gustavo Álvarez Gardeazábal", "año": 1972 },
+    { "título": "Rosario Tijeras", "autor": "Jorge Franco", "año": 1999 },
+    { "título": "Satanás", "autor": "Mario Mendoza", "año": 2002 },
+    { "título": "Vivir para contarla", "autor": "Gabriel García Márquez", "año": 2002 },
+    { "título": "Los ejércitos", "autor": "Evelio Rosero", "año": 2006 },
+    { "título": "La vorágine", "autor": "José Eustasio Rivera", "año": 1924 },
+    { "título": "El coronel no tiene quien le escriba", "autor": "Gabriel García Márquez", "año": 1961 },
+    { "título": "Sin remedio", "autor": "Antonio Caballero", "año": 1984 },
+    { "título": "El otoño del patriarca", "autor": "Gabriel García Márquez", "año": 1975 },
+    { "título": "Memoria por correspondencia", "autor": "Emma Reyes", "año": 2012 }
+]
