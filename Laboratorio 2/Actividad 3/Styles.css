@@ -1,0 +1,36 @@
+body{background-image: url(FONDO2.JPG);
+    background-size: cover;
+background-position: center;}
+
+header{background-color: rgb(124, 23, 5);
+    padding: 50px;
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;}
+
+img{display: flex;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    height: 200px;}
+
+.grid-container{display: grid;
+    width: 90%;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    justify-content: center;}
+
+.grid-container div{align-items: center;
+    text-align: center;
+    background-color:rgb(242, 221, 153, 0.3);
+    width: 98%;
+    height: 98%;}
+
+h2{ font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: bisque;
+}
+
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: antiquewhite;
+padding: 15px;}
