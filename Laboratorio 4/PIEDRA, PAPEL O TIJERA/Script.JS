@@ -14,7 +14,7 @@ function jugar(eleccionJugador) {
     } else {
         mensaje = "¡Perdiste!";
     }
-    document.getElementById("TuEleccion").textContent = "Elegiste " + eleccionJugador + "." ;
-    document.getElementById("EleccionPC").textContent = "La computadora eligió " + eleccionComputadora + ". " ;
+    document.getElementById("TuEleccion").textContent = "Tú elegiste " + eleccionJugador + "." ;
+    document.getElementById("EleccionPC").textContent = "Y la computadora eligió " + eleccionComputadora + ". " ;
     document.getElementById("Resultado").textContent = mensaje;
 }
