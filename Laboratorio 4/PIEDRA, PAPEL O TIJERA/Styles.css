@@ -1,7 +1,7 @@
 h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    color:mediumturquoise;
+    color: goldenrod;
     background-color: darkblue;
     height: 45px;
 }
@@ -12,7 +12,7 @@ h1{
 }
 
 button{
-    border: 3px solid mediumturquoise;
+    border: 3px solid goldenrod;
     border-radius: 10px;
     background: none;
     cursor: pointer;
@@ -20,7 +20,7 @@ button{
 }
 
 button:focus {
-    border: 3px solid rgb(247, 4, 4);}
+    border: 3px solid rgb(247, 105, 4);}
 
 p{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size: 20px;}
@@ -28,7 +28,7 @@ font-size: 20px;}
 .TuEleccion{text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
-color: rgb(247, 4, 4);}
+color: rgb(247, 105, 4);}
 
 .EleccionPC{text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,4 +38,4 @@ color: rgb(247, 4, 4);}
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 color:darkblue;
-background-color:darkturquoise;}
+background-color:goldenrod}
